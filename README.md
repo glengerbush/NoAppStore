@@ -5,6 +5,9 @@
 
 The demo hosts the client on github pages and stores **end-to-end encrypted notes** in a Convex backend. The server only sees ciphertext and metadata — the data encryption key (DEK) and plaintext never leave the client.
 
+<a href="https://glen.industries/NoAppStore/"><strong>DEMO</strong></a>
+
+
 ## What you get
 
 ## Local setup
